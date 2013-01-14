@@ -1,0 +1,5 @@
+strongback/Debug/
+strongback/ipch/
+strongback/strongback/Debug/
+strongback/$tf/
+strongback/strongback/*.sdf
